@@ -57,7 +57,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>k8s-deployment-demo.jar</finalName>	
+		<finalName>k8s-deployment-demo</finalName>	
 	</build>
 
 </project>
